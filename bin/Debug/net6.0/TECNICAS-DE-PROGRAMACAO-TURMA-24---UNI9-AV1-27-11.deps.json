@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TECNICAS-DE-PROGRAMACAO-TURMA-24---UNI9-AV1-27-11/1.0.0": {
+        "runtime": {
+          "TECNICAS-DE-PROGRAMACAO-TURMA-24---UNI9-AV1-27-11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TECNICAS-DE-PROGRAMACAO-TURMA-24---UNI9-AV1-27-11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
